@@ -3280,7 +3280,8 @@
     min-height: 356px;
   }
 } .u-section-8 {
-  background-image: none;
+  background-image: url("images/default-image.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-8 .u-sheet-1 {
